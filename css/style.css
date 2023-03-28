@@ -1,5 +1,12 @@
+ p{background-color: blue;
+    color:aliceblue
+}
+a{
+    color: black;
+    
+}
 h1{
-    color: #ed145b;
+    color: #000000;
 }
 h2{
     color: blue;
@@ -8,6 +15,7 @@ h2{
     color: red;
 }
 .colorido{
-    color: greenyellow;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
+span{color:rgb(255, 255, 255)};
